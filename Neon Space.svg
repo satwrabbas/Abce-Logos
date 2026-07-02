@@ -21,7 +21,7 @@
   <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="url(#text-grad-1)">
     Ab
   </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="url(#text-grad-1)">
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="70" font-weight="bold" fill="url(#text-grad-1)">
     ce
   </text>
 </svg>
