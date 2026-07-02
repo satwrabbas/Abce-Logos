@@ -1,0 +1,20 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100">
+  <defs>
+    <linearGradient id="purple-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2F0743" />
+      <!-- بنفسجي داكن جدًا -->
+      <stop offset="50%" stop-color="#6A11Cb" />
+      <!-- بنفسجي متوسط -->
+      <stop offset="100%" stop-color="#2575FC" />
+      <!-- أزرق ساطع -->
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#purple-blue-grad)" />
+  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="#FFFFFF">
+    Ab
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="#FFFFFF">
+    CE
+  </text>
+</svg>
