@@ -1,5 +1,8 @@
 <svg 
-  xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100">
+  
+  
+  
+  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
   <defs>
     <linearGradient id="purple-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#2F0743" />
@@ -14,7 +17,7 @@
   <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="#FFFFFF">
     Ab
   </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="54" font-weight="bold" fill="#FFFFFF">
-    CE
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Nunito', 'Comic Sans MS', cursive" font-size="70" font-weight="bold" fill="#FFFFFF">
+    ce
   </text>
 </svg>
